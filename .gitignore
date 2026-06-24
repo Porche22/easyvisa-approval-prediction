@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Data / models (uncomment if you add large artifacts)
+# *.csv
+# *.h5
+# *.pkl
+
+# OS
+.DS_Store
