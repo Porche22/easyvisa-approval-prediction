@@ -1,0 +1,4 @@
+# Rendered notebook exports are documentation, not source; exclude them from GitHub language stats.
+*.html linguist-documentation
+# Count notebooks as the Python they contain.
+*.ipynb linguist-language=Python
